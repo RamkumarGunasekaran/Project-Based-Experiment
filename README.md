@@ -164,6 +164,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![331243253-d46310c0-be9f-4517-89f4-90e846b06cc7](https://github.com/RamkumarGunasekaran/Project-Based-Experiment/assets/144870820/44e86c23-27ca-4ab3-8cbe-4c6d0475aa53)
 
 **Result:**
+
 Thus the design and simulate the traffic light controller are successfullt executed.
 
 
